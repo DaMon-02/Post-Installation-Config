@@ -22,15 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+This is the portion where I configure roles to make it similar to a helpdesk enviornment that works with a ticketing system. I will basically give out postions to "workers" that I create. I will first create the role of a Supreme Admin then within that role I will configure the "depatments". This will allow me to assign the workers that I have created a job. Within these jobs there are certain things that they can and cannot do depending on their roles, so an example would be ticket visibilty, I assign who can see and work on tickets. I then go a step further to create departments and teams. For example, I have a team of agents who works for an "Online Banking" deparment. I will list photo examples below showing my work.
 
-<h2>Configuration Steps</h2>
-
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
