@@ -42,10 +42,11 @@ The screenshot posted above is just showing more options that I have as a Suprem
 </p>
 <br />
 
+![Screenshot 2025-02-25 225335](https://github.com/user-attachments/assets/60840553-4fdd-4df8-a9d6-2f34a3cb5023)
+
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The screenshot posted above is me making my Online Banking team.
 </p>
 <br />
