@@ -33,10 +33,12 @@ In the screenshot posted above this is where I can give permissions to the worke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot 2025-02-25 125016](https://github.com/user-attachments/assets/06e2c5e8-bc50-44c5-a697-7f312e0fcbe5)
+
+The screenshot posted above is just showing more options that I have as a Supreme Admin, these are the options that give to the workers or things the I can prohibit them from.
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
